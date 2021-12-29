@@ -1,5 +1,9 @@
 # 本项目是飞桨常规赛：视杯视盘分割十一月第二名方案
-本项目无checkpoint，具体详见AIstudio项目
+本项目无checkpoint，具体详见AIstudio项目：
+https://aistudio.baidu.com/aistudio/projectdetail/3288440
+
+项目经过测试可以一键运行
+
 ## 项目结构
 
 ### Main分支（Default）
